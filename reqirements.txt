@@ -1,7 +1,0 @@
-streamlit
-shap
-matplotlib
-streamlit==1.57.0
-scikit-learn==1.7.0
-pandas
-numpy
